@@ -96,5 +96,5 @@ npm run build
 ## ▲ Deploying to Vercel
 
 This repository is pre-configured with [`vercel.json`](./vercel.json) for zero-configuration deployment on Vercel:
-1. Import `https://github.com/FakerFAME/GraphOps-Omen-.git` in your Vercel Dashboard.
+1. Import `https://github.com/anurag1exe/GraphOPS-Hackfont-India-Project-.git` in your Vercel Dashboard.
 2. Vercel automatically detects **Vite**, runs `npm run build`, and serves the `dist/` output directory.
